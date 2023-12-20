@@ -1,7 +1,8 @@
-# athema
+# ATHEMA
 [🔗 ATHEMA 웹 서비스 시연 영상](https://youtu.be/gZ0ilY4zVwA)
-
-
+<br/>
+<br/> 
+  
 ## 1. 프로젝트 주제
 - Naver Cloud Platform과 API(지도, 결제, SNS 로그인, 챗봇) 및 웹소켓을 활용한 테마 기반 여행 예약 웹 서비스 개발 
 
